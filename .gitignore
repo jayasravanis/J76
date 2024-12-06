@@ -1,0 +1,10 @@
+/.idea/
+/j76-backend/.idea/
+/j76-backend/.mvn/
+/j76-backend/target/
+/j76-backend/.gitattributes
+/j76-backend/HELP.md
+/j76-backend/mvnw
+/j76-backend/mvnw.cmd
+/j76-frontend/build/
+/j76-frontend/node_modules/

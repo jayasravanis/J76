@@ -1,0 +1,26 @@
+h2, h3 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+ul {
+    margin: 10px 0 20px 20px;
+    padding: 0;
+    list-style-type: disc;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+.summary-chart-container {
+    display: flex;
+    width: 400px;
+    justify-content: center;
+    margin: 20px 0;
+    border: 1px solid #ddd; /* Optional: adds a subtle border */
+}

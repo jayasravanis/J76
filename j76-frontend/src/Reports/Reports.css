@@ -1,0 +1,23 @@
+.report-content {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    align-items: flex-start;
+}
+
+.chart-section {
+    flex: 1; /* Each section takes up equal width */
+    max-width: 48%; /* Prevents sections from exceeding half the container */
+}
+
+.chart-container {
+    padding: 10px;
+    background-color: #f9f9f9; /* Optional: adds a light background for the chart */
+    border: 1px solid #ddd; /* Optional: adds a subtle border */
+    border-radius: 5px;
+}
+
+a {
+    color: #4A90E2;
+    text-decoration: none;
+}

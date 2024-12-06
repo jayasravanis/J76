@@ -1,0 +1,27 @@
+.dashboard-container {
+    /* max-width: 800px; */
+    margin: 0 auto;
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+}
+
+.section {
+    margin-bottom: 20px;
+}
+
+.section-title {
+    color: #333;
+}
+
+.section-content {
+    color: #666;
+}
+
+.section-content a {
+    color: #4A90E2;
+    text-decoration: none;
+}
+
+.section-content a:hover {
+    text-decoration: underline;
+}
